@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Lap Gaming",
+      "price": 12,
+      "quan" : 20
+    },
+    {
+      "id": 2,
+      "name": "Lap Office",
+      "price": 15,
+      "quan" : 20
+    },
+    {
+      "id": 3,
+      "name": "PC Gaming",
+      "price": 20,
+      "quan" : 15
+    },
+    {
+      "id": 4,
+      "name": "Lap Normal",
+      "price": 36,
+      "quan" : 30
+    },
+    {
+      "id": 5,
+      "name": "Lap Normal",
+      "price": 42,
+      "quan" : 40
+    }
+  ]
